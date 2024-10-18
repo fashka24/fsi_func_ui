@@ -95,6 +95,8 @@ Program.main fsi.CommandLineArgs
 ### #r use for import dependencies
 
 ### And run main function on end with program arguments
+
+## Run~
 ```shell
 dotnet fsi counter.fsx
 ```
